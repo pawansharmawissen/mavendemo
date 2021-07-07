@@ -27,7 +27,7 @@ class ICalculatorTest {
 	@Test
 	void testSquare() {
 		
-		assertEquals(cal.square(10), 1000);
+		assertEquals(cal.square(10), 100);
 	}
 
 }

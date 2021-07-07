@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.wissen.mavendemo.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.386 s - in com.wissen.mavendemo.CalculatorTest

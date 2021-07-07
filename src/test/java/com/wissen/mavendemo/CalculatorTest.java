@@ -128,7 +128,7 @@ class CalculatorTest {
 		
 		c.addInList(num);
 		
-		verify(c, times(2)).addInList(num);
+		verify(c, times(1)).addInList(num);
 		
 	}
 	
