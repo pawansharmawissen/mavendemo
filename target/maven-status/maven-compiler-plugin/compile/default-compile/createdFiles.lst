@@ -1,0 +1,4 @@
+com\wissen\mavendemo\App.class
+com\wissen\mavendemo\Calculator.class
+com\wissen\mavendemo\CalculatorList.class
+com\wissen\mavendemo\ICalculator.class
